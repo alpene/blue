@@ -5,7 +5,7 @@
 #
 # IMPORTANT: Change "finpilot" above to your desired project name.
 # This name should be used consistently throughout the repository in:
-#   - Justfile: export image_name := env("IMAGE_NAME", "your-name-here")
+#   - Justfile: export image_name := env("IMAGE_NAME", "blue")
 #   - README.md: # your-name-here (title)
 #   - artifacthub-repo.yml: repositoryID: your-name-here
 #   - custom/ujust/README.md: localhost/your-name-here:stable (in bootc switch example)
